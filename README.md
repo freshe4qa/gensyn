@@ -41,10 +41,6 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl scr
 ```
 
 ```
-npm install -g npm@11.3.0
-```
-
-```
 rm -rf rl-swarm && git clone https://github.com/zunxbt/rl-swarm.git && cd rl-swarm
 ```
 
